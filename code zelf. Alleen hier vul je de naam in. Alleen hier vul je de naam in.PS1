@@ -1,4 +1,4 @@
-$bestandsnaam = "pino.txt"
+$bestandsnaam = "Flyer Metal Body Art ENG.png"
 $url = "http://192.168.68.59:5000/upload" 
 
 # 1. Zoek het bestand
