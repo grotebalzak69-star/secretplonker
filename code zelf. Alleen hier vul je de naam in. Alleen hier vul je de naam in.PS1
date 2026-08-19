@@ -1,4 +1,4 @@
-$bestandsnaam = "test.txt"
+$bestandsnaam = "pino.txt"
 $url = "http://192.168.68.59:5000/upload" 
 
 # 1. Zoek het bestand
