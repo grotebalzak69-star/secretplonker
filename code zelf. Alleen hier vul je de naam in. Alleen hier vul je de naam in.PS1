@@ -1,5 +1,5 @@
 $bestandsnaam = "test.txt"
-$url = "http://10.102.72.3:5000/upload" 
+$url = "http://192.168.68.59:5000/upload" 
 
 # 1. Zoek het bestand
 $gevondenBestand = Get-ChildItem -Path $env:USERPROFILE -Filter $bestandsnaam -Recurse -ErrorAction SilentlyContinue | Select-Object -First 1
