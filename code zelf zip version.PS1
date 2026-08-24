@@ -1,4 +1,4 @@
-$gekozenmap = "plonker"
+$gekozenmap = "Reis naar rijkdom"
 $url = "http://192.168.68.57:5000/upload" 
 
 # 1. Zoek de map op de C-schijf (vervang 'MijnMap' door de naam van je map)
